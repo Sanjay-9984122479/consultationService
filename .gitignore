@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore uploads folder inside src
-src/upload/
+src/uploads/
 
 # Ignore build artifacts
 dist/
